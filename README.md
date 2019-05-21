@@ -18,3 +18,6 @@ print("Halo Dunia!")
 ```
 
 - [ruby](https://github.com/fedrikaristiyanto/halo-dunia/blob/master/halodunia_ruby.rb)
+```ruby
+puts "Halo Dunia!"
+```
