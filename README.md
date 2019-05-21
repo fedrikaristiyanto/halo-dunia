@@ -1,4 +1,4 @@
-# halo-dunia
+# Halo-Dunia
 
 ### list
 
@@ -7,7 +7,7 @@
 ```php
 
 <?php
-echo "halo dunia!";
+echo "Halo Dunia!";
 ?>
 
 ```
