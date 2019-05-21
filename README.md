@@ -2,8 +2,8 @@
 
 ### list
 
-php
+- php
 
-[python3](https://github.com/fedrikaristiyanto/halo-dunia/blob/master/halodunia_python3.py)
+- [python3](https://github.com/fedrikaristiyanto/halo-dunia/blob/master/halodunia_python3.py)
 
-[ruby](https://github.com/fedrikaristiyanto/halo-dunia/blob/master/halodunia_ruby.rb)
+- [ruby](https://github.com/fedrikaristiyanto/halo-dunia/blob/master/halodunia_ruby.rb)
