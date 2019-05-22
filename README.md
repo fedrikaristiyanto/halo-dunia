@@ -4,6 +4,18 @@
 
 - html
 
+```
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Halo Dunia!</title>
+ </head>
+ <body>
+  <p>Halo Dunia!</p>
+ </body>
+</html>
+```
+
 - php
 
 ```php
