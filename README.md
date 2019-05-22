@@ -37,6 +37,8 @@ print "Halo Dunia!"
 print("Halo Dunia!")
 ```
 
+![output](https://github.com/fedrikaristiyanto/halo-dunia/blob/master/img/20190522_123340.png)
+
 - ruby
 
 ```ruby
