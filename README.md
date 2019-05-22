@@ -19,12 +19,16 @@
 - php
 
 ```php
-
 <?php
 echo "Halo Dunia!";
 ?>
-
 ```
+
+- python
+```python
+print "Halo Dunia!"
+```
+
 
 - python3
 
