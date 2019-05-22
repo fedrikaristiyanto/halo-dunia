@@ -26,4 +26,4 @@ print("Halo Dunia!")
 puts "Halo Dunia!"
 ```
 
-mohon maaf program masih terbatas
+*mohon maaf program masih terbatas*
