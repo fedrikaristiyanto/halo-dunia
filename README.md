@@ -24,7 +24,7 @@ echo "Halo Dunia!";
 ?>
 ```
 
-- python
+- python2
 ```python
 print "Halo Dunia!"
 ```
