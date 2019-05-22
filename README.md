@@ -40,6 +40,8 @@ contoh output script python3
 
 ![output](https://raw.githubusercontent.com/fedrikaristiyanto/halo-dunia/master/img/20190522_123340.png)
 
+untuk download python silakan [klik disini](https://www.python.org)
+
 - ruby
 
 ```ruby
