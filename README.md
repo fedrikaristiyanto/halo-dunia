@@ -61,4 +61,4 @@ untuk download python silakan [klik disini](https://www.python.org)
 puts "Halo Dunia!"
 ```
 
-*mohon maaf program masih terbatas*
+*mohon maaf program terbatas*
