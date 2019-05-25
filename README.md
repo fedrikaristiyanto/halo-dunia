@@ -49,7 +49,7 @@ print "Halo Dunia!"
 ```python
 print("Halo Dunia!")
 ```
-contoh output script python3
+contoh output script python3 setelah dijalankan dengan _python3 namafile.py_
 
 ![output](https://raw.githubusercontent.com/fedrikaristiyanto/halo-dunia/master/img/20190522_123340.png)
 
