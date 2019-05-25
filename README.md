@@ -1,5 +1,8 @@
 # Halo Dunia!
 
+dibawah ini adalah koleksi output "Halo Dunia!" dari script beberapa program seperti html, php, dll.
+did u know? Heading diatas adalah contoh output dari markdown
+
 ## list
 
 - html
