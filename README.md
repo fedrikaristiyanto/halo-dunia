@@ -10,7 +10,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 buka notepad copy & paste kode dibawah ini!, kemudian save file as html.
 setalah itu coba buka/preview di browser
 
-```
+```html
 <!DOCTYPE html>
 <html>
  <head>
