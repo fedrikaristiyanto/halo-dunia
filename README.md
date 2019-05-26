@@ -6,6 +6,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 ## list
 
 - html
+
 buka notepad copy & paste kode dibawah ini!, kemudian save file as html.
 setalah itu coba buka/preview di browser
 
