@@ -26,7 +26,7 @@ setalah itu coba buka/preview di browser
 
   - window alert
 
-```javascript
+```
 <!DOCTYPE html>
 <html>
 <body>
