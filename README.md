@@ -22,6 +22,26 @@ setalah itu coba buka/preview di browser
 </html>
 ```
 
+- javascript
+
+  - window alert
+
+```javascript
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Web Page</h1>
+<p>My first paragraph.</p>
+
+<script>
+window.alert("Halo Dunia!");
+</script>
+
+</body>
+</html>
+```
+
 - java
 
 ```java
