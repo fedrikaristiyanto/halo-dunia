@@ -42,6 +42,9 @@ window.alert("Halo Dunia!");
 </html>
 ```
 
+[preview](https://fedrikaristiyanto.github.io/halo-dunia/hal2/haloduniajsinhtml)
+
+
 - java
 
 ```java
