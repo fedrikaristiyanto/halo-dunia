@@ -31,8 +31,8 @@ setalah itu coba buka/preview di browser
 <html>
 <body>
 
-<h1>My First Web Page</h1>
-<p>My first paragraph.</p>
+<h1>My First JS</h1>
+<p>My first JS program</p>
 
 <script>
 window.alert("Halo Dunia!");
