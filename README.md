@@ -86,6 +86,8 @@ contoh output script python3 setelah dijalankan dengan _python3 namafile.py_
 
 untuk download python silakan [klik disini](https://www.python.org)
 
+***
+
 - ruby
 
 ```ruby
