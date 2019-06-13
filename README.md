@@ -22,7 +22,25 @@ setalah itu coba buka/preview di browser
 </html>
 ```
 
+***
+
 - javascript
+
+  - document.write
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Halo</title>
+</head>
+<body>
+<script>
+document.write("Halo Dunia!");
+</script>
+</body>
+</html>
+```
 
   - window alert
 
