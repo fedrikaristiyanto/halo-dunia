@@ -26,7 +26,7 @@ setalah itu coba buka/preview di browser
 
 - javascript
 
-  - document.write
+document.write
 
 ```
 <!DOCTYPE html>
@@ -42,15 +42,14 @@ document.write("Halo Dunia!");
 </html>
 ```
 
-  - window alert
+window alert
 
 ```
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1>My First JS</h1>
-<p>My first JS program</p>
+<h1>:)</h1>
 
 <script>
 window.alert("Halo Dunia!");
