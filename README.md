@@ -42,25 +42,6 @@ document.write("Halo Dunia!");
 </html>
 ```
 
-window alert
-
-```
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>:)</h1>
-
-<script>
-window.alert("Halo Dunia!");
-</script>
-
-</body>
-</html>
-```
-
-[preview](https://fedrikaristiyanto.github.io/halo-dunia/hal2/haloduniajsinhtml)
-
 ***
 
 ![javalogo](https://raw.githubusercontent.com/fedrikaristiyanto/halo-dunia/master/img/javalogo.png)
