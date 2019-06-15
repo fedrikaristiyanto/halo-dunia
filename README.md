@@ -63,6 +63,8 @@ window.alert("Halo Dunia!");
 
 ***
 
+![javalogo](https://raw.githubusercontent.com/fedrikaristiyanto/halo-dunia/master/img/javalogo.png)
+
 - java
 
 ```java
