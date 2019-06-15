@@ -44,7 +44,7 @@ document.write("Halo Dunia!");
 
 ***
 
-![javalogo](https://raw.githubusercontent.com/fedrikaristiyanto/halo-dunia/master/img/javalogo.png)
+![javalogo](https://fedrikaristiyanto.github.io/halo-dunia/img/javalogo.svg)
 
 - java
 
