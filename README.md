@@ -5,6 +5,20 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 ## list
 
+- C
+
+```C
+#include <stdio.h>
+
+int main() {
+ printf("Halo Dunia!\n");
+
+ return 0;
+}
+```
+
+***
+
 - html
 
 buka notepad copy & paste kode dibawah ini!, kemudian save file as html.
@@ -31,9 +45,9 @@ document.write
 ```
 <!DOCTYPE html>
 <html>
-<head>
-<title>Halo</title>
-</head>
+ <head>
+  <title>Halo</title>
+ </head>
 <body>
 <script>
 document.write("Halo Dunia!");
