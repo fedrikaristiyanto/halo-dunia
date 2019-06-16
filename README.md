@@ -122,3 +122,5 @@ puts "Halo Dunia!"
 ```
 
 *mohon maaf program terbatas*
+
+[wiki](https://github.com/fedrikaristiyanto/halo-dunia/wiki)
