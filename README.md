@@ -7,7 +7,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 - C
 
-```C programming
+```c
 #include <stdio.h>
 
 int main() {
@@ -16,6 +16,7 @@ int main() {
  return 0;
 }
 ```
+
 
 ***
 
