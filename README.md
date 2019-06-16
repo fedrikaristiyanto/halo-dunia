@@ -96,6 +96,8 @@ untuk download python silakan [klik disini](https://www.python.org)
 
 ***
 
+![rubylogo](https://fedrikaristiyanto.github.io/halo-dunia/img/rubylogo.svg)
+
 - ruby
 
 ```ruby
