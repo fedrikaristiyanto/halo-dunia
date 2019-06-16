@@ -7,7 +7,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 - C
 
-```C
+```C programming
 #include <stdio.h>
 
 int main() {
@@ -45,13 +45,13 @@ document.write
 ```
 <!DOCTYPE html>
 <html>
- <head>
-  <title>Halo</title>
- </head>
+<head>
+ <title>Halo</title>
+</head>
 <body>
-<script>
-document.write("Halo Dunia!");
-</script>
+ <script>
+  document.write("Halo Dunia!");
+ </script>
 </body>
 </html>
 ```
