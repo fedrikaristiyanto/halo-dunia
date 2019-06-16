@@ -90,6 +90,8 @@ echo "Halo Dunia!";
 
 ***
 
+![pythonlogo](https://fedrikaristiyanto.github.io/halo-dunia/img/pythonlogo.svg)
+
 - python2
 
 ```python
