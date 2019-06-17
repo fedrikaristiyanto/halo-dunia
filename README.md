@@ -5,6 +5,8 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 ## list
 
+![C logo](https://fedrikaristiyanto.github.io/halo-dunia/img/clogo.svg)
+
 - C
 
 ```c
