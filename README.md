@@ -3,6 +3,8 @@
 dibawah ini adalah koleksi output "Halo Dunia!" dari script beberapa program seperti html, php, dll.
 did u know? Heading diatas adalah contoh output dari markdown
 
+__terinspirasi oleh [this website](http://helloworldcollection.de)__
+
 ## list
 
 ![C logo](https://fedrikaristiyanto.github.io/halo-dunia/img/clogo.svg)
