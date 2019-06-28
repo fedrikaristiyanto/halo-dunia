@@ -25,6 +25,21 @@ int main() {
 
 ***
 
+C++
+
+```c++
+#include <iostream>
+using namespace std;
+
+
+int main() {
+   cout << "Hello World";
+   return 0;
+}
+```
+
+***
+
 - html
 
 buka notepad copy & paste kode dibawah ini!, kemudian save file as html.
