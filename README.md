@@ -25,7 +25,7 @@ int main() {
 
 ***
 
-C++
+- C++
 
 ```c++
 #include <iostream>
