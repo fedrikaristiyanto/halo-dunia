@@ -27,6 +27,8 @@ int main() {
 
 - C++
 
+![C++ logo](https://fedrikaristiyanto.github.io/halo-dunia/img/cpplogo.svg)
+
 ```c++
 #include <iostream>
 using namespace std;
