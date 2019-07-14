@@ -29,9 +29,8 @@ int main() {
 
 ### C++
 
-<p align="center">
+
 ![C++ logo](https://fedrikaristiyanto.github.io/halo-dunia/img/cpplogo.svg)
-</p>
 
 ```c++
 #include <iostream>
@@ -45,7 +44,7 @@ int main() {
 
 ***
 
-- html
+### html
 
 buka notepad copy & paste kode dibawah ini!, kemudian save file as html.
 setalah itu coba buka/preview di browser
