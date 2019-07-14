@@ -27,12 +27,12 @@ int main() {
 
 ***
 
+### C++
 
 ![C++ logo](https://fedrikaristiyanto.github.io/halo-dunia/img/cpplogo.svg)
 
 
 
-**C++**
 
 ```c++
 #include <iostream>
