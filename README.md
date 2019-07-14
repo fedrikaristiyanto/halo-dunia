@@ -100,7 +100,7 @@ public class MyGreeting {
 print "Halo Dunia!\n";
 ```
 
-[preview >>](https://fedrikaristiyanto.github.io/halo-dunia/prev/hdperl)
+[preview / try it yourself](https://fedrikaristiyanto.github.io/halo-dunia/prev/hdperl.html)
 
 ***
 
@@ -144,7 +144,7 @@ untuk download python silakan [klik disini](https://www.python.org)
 puts "Halo Dunia!"
 ```
 
-[preview / try it your self]()
+[preview / try it your self](https://fedrikaristiyanto.github.io/halo-dunia/prev/hdruby.html)
 
 *mohon maaf program terbatas*
 
