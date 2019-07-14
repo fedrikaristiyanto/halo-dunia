@@ -63,7 +63,7 @@ setalah itu coba buka/preview di browser
 
 ***
 
-- javascript
+### javascript
 
 document.write
 
