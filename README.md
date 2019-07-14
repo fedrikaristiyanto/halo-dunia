@@ -8,11 +8,11 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 ## list
 
-
+### C Programming Language
 
 ![C logo](https://fedrikaristiyanto.github.io/halo-dunia/img/clogo.svg)
 
-### C Programming
+
 
 ```c
 #include <stdio.h>
