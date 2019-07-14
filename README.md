@@ -144,6 +144,8 @@ untuk download python silakan [klik disini](https://www.python.org)
 puts "Halo Dunia!"
 ```
 
+[preview / try it your self]()
+
 *mohon maaf program terbatas*
 
 [wiki](https://github.com/fedrikaristiyanto/halo-dunia/wiki)
