@@ -12,7 +12,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 ![C logo](https://fedrikaristiyanto.github.io/halo-dunia/img/clogo.svg)
 
-### C
+### C Programming
 
 ```c
 #include <stdio.h>
@@ -27,9 +27,12 @@ int main() {
 
 ***
 
-- C++
 
 ![C++ logo](https://fedrikaristiyanto.github.io/halo-dunia/img/cpplogo.svg)
+
+
+
+**C++**
 
 ```c++
 #include <iostream>
