@@ -29,10 +29,9 @@ int main() {
 
 ### C++
 
+<p align="center">
 ![C++ logo](https://fedrikaristiyanto.github.io/halo-dunia/img/cpplogo.svg)
-
-
-
+</p>
 
 ```c++
 #include <iostream>
