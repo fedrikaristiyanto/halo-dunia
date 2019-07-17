@@ -86,9 +86,9 @@ document.write
 
 ***
 
-![javalogo](https://fedrikaristiyanto.github.io/halo-dunia/img/javalogo.svg)
+### java
 
-- java
+![javalogo](https://fedrikaristiyanto.github.io/halo-dunia/img/javalogo.svg)
 
 ```java
 public class MyGreeting {
