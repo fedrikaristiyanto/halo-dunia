@@ -124,14 +124,14 @@ echo "Halo Dunia!";
 
 ![pythonlogo](https://fedrikaristiyanto.github.io/halo-dunia/img/pythonlogo.svg)
 
-#### python2
+##### python2
 
 ```python
 print "Halo Dunia!"
 ```
 
 
-#### python3
+##### python3
 
 ```python
 print("Halo Dunia!")
@@ -146,7 +146,7 @@ untuk download python silakan [klik disini](https://www.python.org)
 
 ![rubylogo](https://fedrikaristiyanto.github.io/halo-dunia/img/rubylogo.svg)
 
-- ruby
+### ruby
 
 ```ruby
 puts "Halo Dunia!"
