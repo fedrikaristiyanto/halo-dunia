@@ -120,16 +120,18 @@ echo "Halo Dunia!";
 
 ***
 
+### python
+
 ![pythonlogo](https://fedrikaristiyanto.github.io/halo-dunia/img/pythonlogo.svg)
 
-- python2
+#### python2
 
 ```python
 print "Halo Dunia!"
 ```
 
 
-- python3
+#### python3
 
 ```python
 print("Halo Dunia!")
