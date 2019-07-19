@@ -42,7 +42,6 @@ int main() {
 }
 ```
 
-[prev](https://ide.geeksforgeeks.org/ciK2uIUAhi)
 
 
 ***
