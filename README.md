@@ -105,7 +105,6 @@ public class MyGreeting {
 print "Halo Dunia!\n";
 ```
 
-[preview / try it yourself](https://fedrikaristiyanto.github.io/halo-dunia/prev/hdperl.html)
 
 ***
 
