@@ -150,7 +150,7 @@ untuk download python silakan [klik disini](https://www.python.org)
 puts "Halo Dunia!"
 ```
 
-[preview / try it your self](https://fedrikaristiyanto.github.io/halo-dunia/prev/hdruby.html)
+
 
 *mohon maaf program terbatas*
 
