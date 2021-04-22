@@ -155,5 +155,6 @@ puts "Halo Dunia!"
 *mohon maaf program terbatas*
 
 ## lainnya
+### PDF
 
 [wiki](https://github.com/fedrikaristiyanto/halo-dunia/wiki)
