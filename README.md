@@ -72,14 +72,14 @@ document.write
 ```
 <!DOCTYPE html>
 <html>
-<head>
- <title>Halo</title>
-</head>
-<body>
- <script>
-  document.write("Halo Dunia!");
- </script>
-</body>
+ <head>
+  <title>Halo</title>
+ </head>
+ <body>
+  <script>
+   document.write("Halo Dunia!");
+  </script>
+ </body>
 </html>
 ```
 
