@@ -212,7 +212,7 @@ trailer
  /Root 6 0 R
 >>
 ```
-
+***
 ### SVG
 
 [wiki](https://github.com/fedrikaristiyanto/halo-dunia/wiki)
