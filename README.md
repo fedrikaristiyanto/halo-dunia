@@ -214,7 +214,11 @@ trailer
 ```
 tulis kode diatas di notepad, kemudian simpan sebagai pdf!
 ingin melihat hasilnya? buka saja di pembaca dokumen pdf seperti adobe acrobat!
+
 ***
+
 ### SVG
+
+...
 
 [wiki](https://github.com/fedrikaristiyanto/halo-dunia/wiki)
