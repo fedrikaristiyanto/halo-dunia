@@ -151,10 +151,10 @@ puts "Halo Dunia!"
 ```
 
 
-
 *mohon maaf program terbatas*
 
 ## lainnya
+
 ### PDF
 ```
 %PDF-1.2
@@ -212,6 +212,8 @@ trailer
  /Root 6 0 R
 >>
 ```
+tulis kode diatas di notepad, kemudian simpan sebagai pdf!
+ingin melihat hasilnya? buka saja di pembaca dokumen pdf seperti adobe acrobat!
 ***
 ### SVG
 
