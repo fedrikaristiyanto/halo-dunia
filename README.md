@@ -174,7 +174,7 @@ endobj
  BT
  /F1 24 Tf
  1 0 0 1 260 254 Tm
- (Halo Dunia)Tj
+ (Halo Dunia!)Tj
  ET
  endstream
 endobj
