@@ -214,6 +214,7 @@ trailer
 ```
 tulis kode diatas di notepad, kemudian simpan sebagai pdf!
 ingin melihat hasilnya? buka saja di pembaca dokumen pdf seperti adobe acrobat!
+atau download aja [dimari!](/halodunia.pdf)
 
 ***
 
