@@ -3,7 +3,7 @@
 
 <svg width="240" height="100" viewBox="0 0 240 100" zoomAndPan="disable"
      xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
-  <title>Hello World</title>
+  <title>Halo Dunia!</title>
     <g>
       <text x="10" y="50">Hello World</text>
       <animate attributeName='opacity' values='0;1' dur='4s' fill='freeze' begin="0s"/>
