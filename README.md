@@ -50,7 +50,7 @@ int main() {
 
 buka notepad copy & paste kode dibawah ini!, kemudian save file as html.
 setalah itu coba buka/preview di browser,
-kalo penasaran preview [>>dimari<<](/halo-dunia/halodunia.html) aja!
+kalo penasaran preview [>>dimari<<](https://fedrikaristiyanto.github.io/halo-dunia/halodunia.html) aja!
 
 ```html
 <!DOCTYPE html>
