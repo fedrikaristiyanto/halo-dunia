@@ -49,7 +49,7 @@ int main() {
 ### html
 
 buka notepad copy & paste kode dibawah ini!, kemudian save file as html.
-setalah itu coba buka/preview di browser
+setalah itu coba buka/preview di browser,
 kalo penasaran preview [>>dimari<<](/halo-dunia/halodunia.html) aja!
 
 ```html
