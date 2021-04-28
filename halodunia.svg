@@ -5,7 +5,7 @@
      xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
   <title>Halo Dunia!</title>
     <g>
-      <text x="10" y="50">Hello World</text>
+      <text x="10" y="50">Halo Dunia!</text>
       <animate attributeName='opacity' values='0;1' dur='4s' fill='freeze' begin="0s"/>
     </g>
 </svg>
