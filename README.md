@@ -99,7 +99,11 @@ public class MyGreeting {
 ```
 
 ***
+### jQuery
 
+__soon__
+
+***
 ### perl
 
 ```perl
