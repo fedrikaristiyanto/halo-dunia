@@ -101,8 +101,21 @@ public class MyGreeting {
 ***
 ### jQuery
 
-__soon__
-
+```
+<html>
+<head>
+<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+</head>
+<body>
+<p id="sapaHalo"></p>
+<script>
+$(document).ready(function(){
+  $("#sapaHalo").html("Halo Dunia!")
+});
+</script>
+</body>
+</html>
+```
 ***
 ### perl
 
