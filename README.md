@@ -1,4 +1,5 @@
 [![GitHub stars](https://img.shields.io/github/stars/fedrikaristiyanto/halo-dunia?style=social)](https://github.com/fedrikaristiyanto/halo-dunia/stargazers)
+
 # Halo Dunia!
 
 Dibawah ini adalah koleksi output "Halo Dunia!" dari script beberapa program seperti html, php, dll.
@@ -8,6 +9,9 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 
 ## list
+| __C | H__ |
+
+### C
 
 ### C Programming Language
 
@@ -47,7 +51,7 @@ int main() {
 
 ***
 
-### html
+### HTML
 
 buka notepad copy & paste kode dibawah ini!, kemudian save file as html.
 setalah itu coba buka/preview di browser,
