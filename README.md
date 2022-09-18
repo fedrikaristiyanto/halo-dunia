@@ -13,7 +13,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 ### C
 
-### C Programming Language
+#### C Programming Language
 
 ![C logo](https://fedrikaristiyanto.github.io/halo-dunia/img/clogo.svg)
 
@@ -72,6 +72,8 @@ kalo penasaran preview [>>dimari<<](https://fedrikaristiyanto.github.io/halo-dun
 
 ***
 
+### J
+
 ### JavaScript
 
 document.write
@@ -92,7 +94,7 @@ document.write
 
 ***
 
-### java
+### Java
 
 ![javalogo](https://fedrikaristiyanto.github.io/halo-dunia/img/javalogo.svg)
 
@@ -124,6 +126,8 @@ $(document).ready(function(){
 </html>
 ```
 ***
+
+### P
 ### perl
 
 ```perl
@@ -133,7 +137,7 @@ print "Halo Dunia!\n";
 
 ***
 
-### php
+### PHP
 
 ```php
 <?php
