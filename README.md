@@ -9,7 +9,10 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 
 ## list
-| __C | [H](https://fedrikaristiyanto.github.io/halo-dunia#h) | J__ |
+| __C | 
+[H](https://fedrikaristiyanto.github.io/halo-dunia#h) | 
+J | 
+R__ |
 
 ### C
 
@@ -128,7 +131,7 @@ $(document).ready(function(){
 ***
 
 ### P
-### perl
+#### perl
 
 ```perl
 print "Halo Dunia!\n";
@@ -137,7 +140,7 @@ print "Halo Dunia!\n";
 
 ***
 
-### PHP
+#### PHP
 
 ```php
 <?php
@@ -147,7 +150,7 @@ echo "Halo Dunia!";
 
 ***
 
-### python
+#### python
 
 ![pythonlogo](https://fedrikaristiyanto.github.io/halo-dunia/img/pythonlogo.svg)
 
@@ -170,10 +173,11 @@ contoh output script python3 setelah dijalankan dengan _python3 namafile.py_
 untuk download python silakan [klik disini](https://www.python.org)
 
 ***
+### R
+#### ruby
 
 ![rubylogo](https://fedrikaristiyanto.github.io/halo-dunia/img/rubylogo.svg)
 
-### ruby
 
 ```ruby
 puts "Halo Dunia!"
