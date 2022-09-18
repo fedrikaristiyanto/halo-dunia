@@ -9,7 +9,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 
 ## list
-| __C | H__ |
+| __C | [H](https://fedrikaristiyanto.github.io/halo-dunia/readme#h)__ |
 
 ### C
 
