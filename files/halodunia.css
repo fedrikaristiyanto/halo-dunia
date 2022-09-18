@@ -1,4 +1,4 @@
-/*Halo Dunia CSS dengan pseudo-element*/
+/*Halo Dunia CSS dengan pseudo-elements*/
 
 body:before {
   content:"Halo Dunia!";
