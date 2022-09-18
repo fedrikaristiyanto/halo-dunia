@@ -12,7 +12,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 | __C | 
 [H](https://fedrikaristiyanto.github.io/halo-dunia#h) | 
 J | 
-R__ |
+P | R__ |
 
 ### C
 
