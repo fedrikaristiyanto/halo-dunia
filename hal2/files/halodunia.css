@@ -1,5 +1,0 @@
-/*Halo Dunia CSS menggunakan pseudo-element*/
-
-body:before {
-  content:"Halo Dunia!";
-}
