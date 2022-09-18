@@ -32,7 +32,7 @@ int main() {
 
 ***
 
-### C++
+#### C++
 
 
 ![C++ logo](https://fedrikaristiyanto.github.io/halo-dunia/img/cpplogo.svg)
@@ -52,7 +52,7 @@ int main() {
 ***
 
 ### H
-### HTML
+#### HTML
 
 buka notepad copy & paste kode dibawah ini!, kemudian save file as html.
 setalah itu coba buka/preview di browser,
@@ -74,7 +74,7 @@ kalo penasaran preview [>>dimari<<](https://fedrikaristiyanto.github.io/halo-dun
 
 ### J
 
-### JavaScript
+#### JavaScript
 
 document.write
 
@@ -94,7 +94,7 @@ document.write
 
 ***
 
-### Java
+#### Java
 
 ![javalogo](https://fedrikaristiyanto.github.io/halo-dunia/img/javalogo.svg)
 
@@ -107,7 +107,7 @@ public class MyGreeting {
 ```
 
 ***
-### jQuery
+#### jQuery
 
 ```
 <!DOCTYPE html>
