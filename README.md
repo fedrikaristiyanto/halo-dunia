@@ -18,7 +18,6 @@ P | R__ |
 
 #### C Programming Language
 
-![C logo](https://fedrikaristiyanto.github.io/halo-dunia/img/clogo.svg)
 
 
 
