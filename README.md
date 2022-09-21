@@ -14,6 +14,28 @@ did u know? Heading diatas adalah contoh output dari markdown
 [J](https://fedrikaristiyanto.github.io/halo-dunia#j) | 
 P | R__ |
 
+
+#### AngularJS
+Halo Dunia dengan _kerangka kerja/framework_ AngularJS
+```html
+
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="url library AngularJS.js"></script>
+</head>
+<body>
+
+<div ng-app="" ng-init="Halo='Halo Dunia!'">
+  <p>{{ Halo }}</p>
+</div>
+
+</body>
+</html>
+```
+
+***
+
 ### C
 
 #### C Programming Language
