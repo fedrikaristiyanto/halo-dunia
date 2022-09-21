@@ -11,7 +11,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 ## list
 | __C | 
 [H](https://fedrikaristiyanto.github.io/halo-dunia#h) | 
-J | 
+[J](https://fedrikaristiyanto.github.io/halo-dunia#j) | 
 P | R__ |
 
 ### C
