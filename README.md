@@ -280,7 +280,6 @@ atau download aja [dimari!](https://fedrikaristiyanto.github.io/halo-dunia/halod
 
 ***
 
-### SVG
+[Kembali ke atas ⬆](https://fedrikaristiyanto.github.io/halo-dunia#list) 
 
-...
 
