@@ -280,6 +280,6 @@ atau download aja [dimari!](https://fedrikaristiyanto.github.io/halo-dunia/halod
 
 ***
 
-Kembali ke atas ⬆
+[Kembali ke atas ⬆](https://fedrikaristiyanto.github.io/halo-dunia#list) 
 
 
