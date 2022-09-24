@@ -9,7 +9,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 
 ## list
-| __A | C | 
+| __A | C | G |
 [H](https://fedrikaristiyanto.github.io/halo-dunia#h) | 
 [J](https://fedrikaristiyanto.github.io/halo-dunia#j) | 
 P | R__ |
@@ -291,6 +291,12 @@ tulis kode diatas di notepad, kemudian simpan sebagai pdf!
 ingin melihat hasilnya? buka saja di pembaca dokumen pdf seperti adobe acrobat!
 atau download aja [dimari!](https://fedrikaristiyanto.github.io/halo-dunia/halodunia.pdf)
 
+***
+### TXT
+```
+Halo Dunia! 
+
+```
 ***
 
 [Kembali ke atas ⬆](https://fedrikaristiyanto.github.io/halo-dunia#list) 
