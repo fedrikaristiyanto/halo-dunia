@@ -9,7 +9,7 @@ did u know? Heading diatas adalah contoh output dari markdown
 
 
 ## list
-| __A | C | 
+| __A | C | G |
 [H](https://fedrikaristiyanto.github.io/halo-dunia#h) | 
 [J](https://fedrikaristiyanto.github.io/halo-dunia#j) | 
 P | R__ |
