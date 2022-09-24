@@ -292,6 +292,12 @@ ingin melihat hasilnya? buka saja di pembaca dokumen pdf seperti adobe acrobat!
 atau download aja [dimari!](https://fedrikaristiyanto.github.io/halo-dunia/halodunia.pdf)
 
 ***
+### TXT
+```
+Halo Dunia! 
+
+```
+***
 
 [Kembali ke atas ⬆](https://fedrikaristiyanto.github.io/halo-dunia#list) 
 
