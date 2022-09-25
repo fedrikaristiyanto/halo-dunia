@@ -228,9 +228,9 @@ puts "Halo Dunia!"
 
 *mohon maaf program terbatas*
 
-## lainnya
+### lainnya
 
-### PDF
+#### PDF
 ```
 %PDF-1.2
 1 0 obj
@@ -292,7 +292,7 @@ ingin melihat hasilnya? buka saja di pembaca dokumen pdf seperti adobe acrobat!
 atau download aja [dimari!](https://fedrikaristiyanto.github.io/halo-dunia/halodunia.pdf)
 
 ***
-### TXT
+#### TXT
 ```
 Halo Dunia! 
 
