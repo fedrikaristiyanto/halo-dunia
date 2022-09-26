@@ -12,7 +12,7 @@ _did u know?_ Heading diatas adalah contoh output dari markdown
 | __[A](https://fedrikaristiyanto.github.io/halo-dunia#a) | C | G |
 [H](https://fedrikaristiyanto.github.io/halo-dunia#h) | 
 [J](https://fedrikaristiyanto.github.io/halo-dunia#j) | 
-P | R__ |
+P | R | V__ |
 
 ### A
 #### AngularJS
@@ -242,7 +242,7 @@ Halo Dunia dengan _kerangka kerja/framework_ VueJS
 <script>
 var myObject = new Vue({
   el: '#app',
-  data: {message: 'Hello Vue!'}
+  data: {message: 'Halo Dunia!'}
 })
 </script>
 
