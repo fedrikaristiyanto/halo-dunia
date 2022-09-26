@@ -229,6 +229,27 @@ puts "Halo Dunia!"
 
 Halo Dunia dengan _kerangka kerja/framework_ VueJS
 
+```html
+<!DOCTYPE html>
+<html>
+<script src="url library vueJS .js"></script>
+<body>
+
+<div id="app">
+  <h1>{{ message }}</h1>
+</div>
+
+<script>
+var myObject = new Vue({
+  el: '#app',
+  data: {message: 'Hello Vue!'}
+})
+</script>
+
+</body>
+</html>
+```
+
 *mohon maaf program terbatas*
 
 ### lainnya
