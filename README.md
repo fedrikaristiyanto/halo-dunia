@@ -236,7 +236,7 @@ Halo Dunia dengan _kerangka kerja/framework_ VueJS
 <body>
 
 <div id="app">
-  <h1>{{ message }}</h1>
+  <p>{{ message }}</p>
 </div>
 
 <script>
