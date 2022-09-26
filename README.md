@@ -12,7 +12,7 @@ _did u know?_ Heading diatas adalah contoh output dari markdown
 | __[A](https://fedrikaristiyanto.github.io/halo-dunia#a) | C | G |
 [H](https://fedrikaristiyanto.github.io/halo-dunia#h) | 
 [J](https://fedrikaristiyanto.github.io/halo-dunia#j) | 
-P | R__ |
+P | R | V__ |
 
 ### A
 #### AngularJS
@@ -224,7 +224,31 @@ untuk download python silakan [klik disini](https://www.python.org)
 ```ruby
 puts "Halo Dunia!"
 ```
+### V
+#### VueJS
 
+Halo Dunia dengan _kerangka kerja/framework_ VueJS
+
+```html
+<!DOCTYPE html>
+<html>
+<script src="url library vueJS .js"></script>
+<body>
+
+<div id="app">
+  <h1>{{ message }}</h1>
+</div>
+
+<script>
+var myObject = new Vue({
+  el: '#app',
+  data: {message: 'Halo Dunia!'}
+})
+</script>
+
+</body>
+</html>
+```
 
 *mohon maaf program terbatas*
 
