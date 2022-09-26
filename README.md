@@ -154,11 +154,11 @@ public class MyGreeting {
 ***
 #### jQuery
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
-<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+<script src="url library JQuery.js"></script>
 </head>
 <body>
 <p id="sapaHalo"></p>
