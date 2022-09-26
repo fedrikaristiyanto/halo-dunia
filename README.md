@@ -227,6 +227,7 @@ puts "Halo Dunia!"
 ### V
 #### VueJS
 
+Halo Dunia dengan _kerangka kerja/framework_ VueJS
 
 *mohon maaf program terbatas*
 
