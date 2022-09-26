@@ -232,7 +232,9 @@ Halo Dunia dengan _kerangka kerja/framework_ VueJS
 ```html
 <!DOCTYPE html>
 <html>
+<head>
 <script src="url library vueJS .js"></script>
+</head>
 <body>
 
 <div id="app">
