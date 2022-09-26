@@ -3,13 +3,13 @@
 # Halo Dunia!
 
 Dibawah ini adalah koleksi output "Halo Dunia!" dari script beberapa program seperti html, php, dll.
-did u know? Heading diatas adalah contoh output dari markdown
+_did u know?_ Heading diatas adalah contoh output dari markdown
 
 *terinspirasi oleh [situs ini](http://helloworldcollection.de)*
 
 
 ## list
-| __A | C | G |
+| __[A](https://fedrikaristiyanto.github.io/halo-dunia#a) | C | G |
 [H](https://fedrikaristiyanto.github.io/halo-dunia#h) | 
 [J](https://fedrikaristiyanto.github.io/halo-dunia#j) | 
 P | R__ |
@@ -154,11 +154,11 @@ public class MyGreeting {
 ***
 #### jQuery
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
-<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+<script src="url library JQuery.js"></script>
 </head>
 <body>
 <p id="sapaHalo"></p>
