@@ -124,18 +124,20 @@ kalo penasaran preview [>>dimari<<](https://fedrikaristiyanto.github.io/halo-dun
 
 document.write
 
-```
-<!DOCTYPE html>
-<html>
- <head>
-  <title>Halo</title>
- </head>
- <body>
-  <script>
+```javascript
+
    document.write("Halo Dunia!");
-  </script>
- </body>
-</html>
+ 
+```
+
+popup box 
+
+```javasvript
+window.alert("Halo Dunia!");
+```
+atau
+```javascript
+alert("Halo Dunia!");
 ```
 
 ***
