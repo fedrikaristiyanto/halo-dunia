@@ -126,7 +126,7 @@ document.write
 
 ```javascript
 
-   document.write("Halo Dunia!");
+document.write("Halo Dunia!");
  
 ```
 
