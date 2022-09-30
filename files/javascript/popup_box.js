@@ -1,0 +1,1 @@
+window.alert("Halo Dunia!");
