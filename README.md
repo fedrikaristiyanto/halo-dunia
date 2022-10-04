@@ -220,7 +220,14 @@ untuk download python silakan [klik disini](https://www.python.org)
 
 ***
 ### R
-#### ruby
+#### React
+React JSX
+```
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<p>Halo Dunia!</p>);
+```
+***
+#### Ruby
 
 ![rubylogo](https://fedrikaristiyanto.github.io/halo-dunia/img/rubylogo.svg)
 
