@@ -72,8 +72,23 @@ int main() {
    return 0;
 }
 ```
+***
+#### C#
+```C#
+using System;
 
+namespace Halodunia
+{
+  class Halo
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Halo Dunia!");    
+    }
+  }
+}
 
+```
 
 ***
 #### CSS
