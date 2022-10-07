@@ -35,6 +35,7 @@ Halo Dunia dengan _kerangka kerja/framework_ AngularJS
 </body>
 </html>
 ```
+[pratinjau disini](https://codepen.io/fedrikaristiyanto/pen/PoedaRV)
 
 ***
 
@@ -59,9 +60,6 @@ int main() {
 ***
 
 #### C++
-
-
-![C++ logo](https://fedrikaristiyanto.github.io/halo-dunia/img/cpplogo.svg)
 
 ```c++
 #include <iostream>
