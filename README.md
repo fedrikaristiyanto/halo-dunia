@@ -253,7 +253,8 @@ puts "Halo Dunia!"
 ### T
 #### Typescript
 ```typescript
-console.log("Halo Dunia!");
+const msg: string = "Halo Dunia!";
+console.log(msg);
 ```
 
 ### V
