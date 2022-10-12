@@ -14,7 +14,8 @@ _did u know?_ Heading diatas adalah contoh output dari markdown
 [G](https://fedrikaristiyanto.github.io/halo-dunia#g) |
 [H](https://fedrikaristiyanto.github.io/halo-dunia#h) | 
 [J](https://fedrikaristiyanto.github.io/halo-dunia#j) | 
-P | R | V__ |
+[P](https://fedrikaristiyanto.github.io/halo-dunia#p) | 
+R | V__ |
 
 ### A
 #### AngularJS
