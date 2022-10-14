@@ -141,18 +141,23 @@ document.write
 
 ```javascript
 
-document.write("Halo Dunia!");
+ document.write("Halo Dunia!");
  
+```
+
+Console
+```javascript
+ console.log("Halo Dunia!");
 ```
 
 popup box 
 
 ```javasvript
-window.alert("Halo Dunia!");
+ window.alert("Halo Dunia!");
 ```
-atau
+   atau
 ```javascript
-alert("Halo Dunia!");
+ alert("Halo Dunia!");
 ```
 
 ***
