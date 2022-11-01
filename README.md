@@ -256,6 +256,12 @@ puts "Halo Dunia!"
 ```
 ***
 
+### S
+#### Swift
+```swift
+print("Halo Dunia!")
+```
+
 ### T
 #### Typescript
 ```typescript
