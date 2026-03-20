@@ -360,7 +360,7 @@ trailer
 ```
 tulis kode diatas di notepad, kemudian simpan sebagai pdf!
 ingin melihat hasilnya? buka saja di pembaca dokumen pdf seperti adobe acrobat!
-atau download aja [dimari!](https://fedrikaristiyanto.github.io/halo-dunia/halodunia.pdf)
+atau download aja [dimari!](https://fedrikaristiyanto.github.io/halo-dunia/files/halodunia.pdf)
 
 ***
 #### TXT
